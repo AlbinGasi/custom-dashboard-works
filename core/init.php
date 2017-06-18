@@ -4,16 +4,14 @@ session_regenerate_id(true);
 
 $GLOBALS['config'] = array(
 	"DB" => array(
-		"host" => "localhost",
-		"user" => "root",
-		"password" => "alko3105",
-		"db_name" => "newproject"
+		"host" => "",
+		"user" => "",
+		"password" => "",
+		"db_name" => ""
 	),
-	"path_url" => 'http://localhost/newproject',
-	"path_url_android" => 'http:\/\/localhost\/newproject',
-	"image_store_android" => 'includes\/uploads\/images',
+	"path_url" => '',
 	"image_store" => 'includes/uploads/images',
-	"table_prefix" => 'tri_',
+	"table_prefix" => '',
 	"hash_key" => '123FgkhjF'
 );
 
