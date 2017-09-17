@@ -1,4 +1,4 @@
-# Simple web apps
+# Custom dashboard works
 Custom dashboard for one android apps
 
 You can check demo on the following link: 
