@@ -1,5 +1,5 @@
 # Simple web apps
-Simple web apps for one android apps
+Custom dashboard for one android apps
 
 You can check demo on the following link: 
 <a href="http://webpattern.com.ba/demo/simple-web-apps/admin.php" target="_blank">DEMO</a><br>
